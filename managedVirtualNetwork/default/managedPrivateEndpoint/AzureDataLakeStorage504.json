@@ -1,0 +1,7 @@
+{
+	"name": "AzureDataLakeStorage504",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3c0f380d-19c6-4148-86d6-ab6a0590be95/resourceGroups/wj-synapse-rg/providers/Microsoft.Storage/storageAccounts/wjsynapsesa",
+		"groupId": "dfs"
+	}
+}
