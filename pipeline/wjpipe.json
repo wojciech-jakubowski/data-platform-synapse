@@ -1,0 +1,17 @@
+{
+	"name": "wjpipe",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait1X",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
